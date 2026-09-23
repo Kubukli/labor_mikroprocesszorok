@@ -278,6 +278,7 @@ void Error_Handler(void)
   /* USER CODE END Error_Handler_Debug */
 }
 /*a*/
+/*a*/
 
 #ifdef USE_FULL_ASSERT
 
